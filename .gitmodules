@@ -1,0 +1,6 @@
+[submodule "My-Insta-Clone-Backend"]
+	path = My-Insta-Clone-Backend
+	url = https://github.com/cristoferespindola/My-Insta-Clone-Backend
+[submodule "My-Insta-Clone-Frontend"]
+	path = My-Insta-Clone-Frontend
+	url = https://github.com/cristoferespindola/My-Insta-Clone-Frontend
